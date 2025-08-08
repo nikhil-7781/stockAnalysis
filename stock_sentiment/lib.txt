@@ -1,0 +1,10 @@
+requests
+beautifulsoup4
+yfinance
+transformers
+torch
+pandas
+flask
+schedule
+matplotlib
+scikit-learn
